@@ -386,7 +386,7 @@ Proprietary - All rights reserved
 ## 📞 Support
 
 For questions or issues:
-- 📧 Email: support@ordersaas.com
+- 📧 Email: ahmed.sha3ban13@gmail.com
 - 📝 Documentation: See `docs/` folder
 - 🐛 Issues: GitHub Issues
 
